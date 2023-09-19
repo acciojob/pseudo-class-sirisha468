@@ -1,13 +1,13 @@
 # container{
 	margin:20px;
 }
-# container::before{
-	content:Before Element;
-	color:red;
-	font-size:20px;
+# container::before {
+	content: Before Element;
+	color: #f00;
+	font-size: 20px;
 }
-# container::after{
-	content:After Element;
-	color:red;
-	font-size:20px;
+# container:: after{
+	content: After Element;
+	color: #f00;
+	font-size: 20px;
 }
